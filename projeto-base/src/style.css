@@ -21,6 +21,12 @@
     height: 500px;
 }
 
+.fonte-subtitulo {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pacifico', cursive;
+    color: darkred;
+}
+
 img {
     max-width: 100%;
 }
