@@ -1,0 +1,26 @@
+.fonte-logo {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pacifico', cursive;
+    color: darkred;
+}
+
+.fonte-titulo {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pacifico', cursive;
+    text-shadow: 5px 05px black;
+}
+
+.imagem-carrossel-um {
+    object-fit: cover;
+    object-position: 0 60%;
+    height: 500px;
+}
+
+.imagem-carrossel-dois {
+    object-fit: cover;
+    height: 500px;
+}
+
+img {
+    max-width: 100%;
+}
