@@ -5,7 +5,7 @@
 .fonte-logo {
     font-family: 'Montserrat', sans-serif;
     font-family: 'Pacifico', cursive;
-    color: darkred;
+    color: darkred!important;
 }
 
 .fonte-titulo {
