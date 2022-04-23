@@ -27,6 +27,20 @@
     color: darkred;
 }
 
-img {
-    max-width: 100%;
+.cards-receitas {
+    background-color: whitesmoke;
+}
+
+.botao-cor-espeical {
+    background-color: darkred;
+    color: white;
+}
+
+.botao-cor-espeical:hover {
+    background-color: rgb(179, 6, 6);
+    color: white;
+}
+
+.borda-cor-especial {
+    border-color: darkred;
 }
